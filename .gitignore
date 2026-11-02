@@ -1,0 +1,9 @@
+   output/
+   *.sqlite
+   .Rhistory
+   .RData
+   .Rproj.user/
+   renv/library/
+   # Lokale instellingen met verbindingsgegevens: nooit in Git
+   lokaal.R
+   .Renviron
